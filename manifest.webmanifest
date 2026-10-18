@@ -1,0 +1,17 @@
+{
+  "name": "numdash – Rechnen im Sprung",
+  "short_name": "numdash",
+  "description": "Rechen-Runner für die Grundschule: Aufgabe lesen, durchs richtige Tor fahren.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#10132e",
+  "theme_color": "#10132e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
